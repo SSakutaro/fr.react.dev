@@ -682,7 +682,8 @@ export const initialTravelPlan = {
         childPlaces: []
       }, {
         id: 17,
-        title: 'Trinité-et-Tobté-et-childPlaces: []
+        title: 'Trinité-et-Tobté-et-childPlaces',
+        childPlaces: []
       }, {
         id: 18,
         title: 'Venezuela',
